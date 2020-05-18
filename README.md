@@ -10,3 +10,5 @@ This example uses a dataset that forms a
 [Petersen graph](https://en.wikipedia.org/wiki/Petersen_graph).
 Also note how the constraints applied during the simulation 
 force the graph to be of [unit distance](https://en.wikipedia.org/wiki/Unit_distance_graph).
+
+In order to see the action, clone the repo and then `npm install` and `npm run start`.
